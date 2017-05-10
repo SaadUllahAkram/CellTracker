@@ -1,4 +1,4 @@
-# [Cell Tracking via Proposal Generation and Selection](https://arxiv.org/abs/.)
+# [Cell Tracking via Proposal Generation and Selection](https://arxiv.org/abs/1705.03386)
 [S. U. Akram](https://scholar.google.fi/citations?user=i8UDIQ4AAAAJ&hl=en), [J. Kannala](https://users.aalto.fi/~kannalj1/), L. Eklund & [J. Heikkilä](https://scholar.google.com/citations?user=SCR4RY8AAAAJ),<br/>
 <br/>
 
@@ -9,13 +9,13 @@
 1. **[Videos](#videos)**
 
 ## [Introduction:](#introduction)
-The paper can be found at **[arXiv](https://arxiv.org/abs/.)** and [cell proposal network code](https://github.com/SaadUllahAkram/CPN) is available at **[github](https://github.com/SaadUllahAkram/CPN)**.
+The paper can be found at **[arXiv](https://arxiv.org/abs/1705.03386)** and [cell proposal network code](https://github.com/SaadUllahAkram/CPN) is available at **[github](https://github.com/SaadUllahAkram/CPN)**.
 If you find this code useful in your research, please consider citing:
 
     @article{akram2017a,
         author = {Akram S. U., Kannala J., Eklund L., and Heikkilä J.},
         title = {Cell Tracking via Proposal Generation and Selection},
-        journal = {arXiv:xxxx.xxxx},
+        journal = {arXiv:1705.03386},
         year = {2017}
     }
 
